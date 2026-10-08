@@ -2,3 +2,4 @@
 
 Objetivo: Comprobar la capacidad de escribir consultas SQL correctas usando el modelo del sistema de coworking.
 
+
